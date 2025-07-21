@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #4b2c2c;
+  color: white;
+  position: relative;
+}
+
+body * {
+  position: relative;
+  z-index: 1;
+}

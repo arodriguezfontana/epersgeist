@@ -20,4 +20,8 @@ Cada etapa fue diseñada para integrar un tipo de base de datos diferente, utili
 * JUnit
 * Kibana
 
-En la ultima etapa se realizo una investigación sobre Elasticsearch, base de datos la cual posretiormente se agrego al proyecto para la implementacion de geolocalización y busquedas semanticas agregando python. 
+En la última etapa se llevó a cabo una investigación sobre Elasticsearch, una base de datos que posteriormente se integró al proyecto para implementar funcionalidades de geolocalización y búsquedas semánticas, incorporando además el uso de Python. 
+
+### Más información
+
+Este proyecto fue desarrollado en grupo junto a cuatro compañeros para la materia Estrategias de Persistencia y evolucionando a la vez que veiamos contenidos nuevos, por ende, no hay rastros de herramientas que fueron utilizadas como JDBC o Hibernate. Decidí crear este repositorio ya que no me fue posible hacer un fork del original.

@@ -11,7 +11,7 @@ Cada etapa fue diseñada para integrar un tipo de base de datos diferente, utili
 
 ### Tecnologías y bases de datos utilizadas
 * Java
-* Spring Framework
+* Spring Boot
 * PostgreSQL
 * MongoDB
 * Neo4j
